@@ -76,7 +76,15 @@ button{
 }
 #btnA{
   background-color: yellow;
-  color: green;
+  color: hotpink;
+}
+#btnB{
+  background-color: honeydew;
+  color: pink;
+}
+#btnC{
+  background-color: greenyellow;
+  color: red;
 }
 #message{
   font-weight:  bold;

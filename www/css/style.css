@@ -78,6 +78,9 @@ button{
   background-color: yellow;
   color: hotpink;
 }
+#btnB{
+  background-color: honeydew;
+}
 #message{
   font-weight:  bold;
 }

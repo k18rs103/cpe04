@@ -80,7 +80,9 @@ button{
 }
 #btnB{
   background-color: honeydew;
+  color: pink;
 }
+
 #message{
   font-weight:  bold;
 }

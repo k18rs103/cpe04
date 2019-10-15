@@ -84,6 +84,7 @@ button{
 }
 #btnC{
   background-color: greenyellow;
+    color: red;
 }
 #message{
   font-weight:  bold;

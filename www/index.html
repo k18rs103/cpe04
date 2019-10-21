@@ -213,6 +213,11 @@
              var m = parseInt(rest/60);
              var s = parseInt(rest-m*60);
           }
+           $("#time").html(formatTime(hour,minute,second));
+        if(hour == 23) {
+          $("#message").html("夜だよ 暗いよ");
+        }
+
         }
         
     } 
